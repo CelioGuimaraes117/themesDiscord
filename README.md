@@ -1,2 +1,2 @@
-# themesDiscord
+# Temas para Discord
 Temas para Discord
